@@ -14,5 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
+  ![Snake animation](https://github.com/RafaelPereira86/RafaelPereira86/blob/output/github-contribution-grid-snake.svg)
+
  
   ##
