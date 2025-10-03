@@ -18,12 +18,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RafaelPereira86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=RafaelPereira86&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- Visit Counter -->
+<div align="center">
   
-  ![Snake animation](https://github.com/RafaelPereira86/RafaelPereira86/blob/output/github-contribution-grid-snake.svg)
-
- 
-  ##
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
